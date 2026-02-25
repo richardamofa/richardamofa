@@ -40,16 +40,6 @@ I enjoy solving real-world problems through structured systems, efficient UI des
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
- 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.netlify.app/api?username=richardamofa&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.netlify.app/api/top-langs/?username=richardamofa&layout=compact&hide_border=true" />
-</p>
-
 🌐 Connect  
 
 LinkedIn: https://www.linkedin.com/in/richard-osei-amofa-113414286/  
