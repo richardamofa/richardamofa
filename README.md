@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi, I'm Richard Amofa
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=24&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Full-Stack+Developer;Building+Scalable+Web+Applications;Open+to+Opportunities" /> </p>
+💼 Professional Summary
 
-<!--
-**richardamofa/richardamofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer and Full-Stack Developer focused on building scalable, responsive web applications with clean architecture and strong performance principles.
 
-Here are some ideas to get you started:
+I enjoy solving real-world problems through structured systems, efficient UI design, and maintainable backend logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Ghana • Open to internships and junior engineering roles
+
+🛠️ Technical Stack
+Languages
+
+
+
+
+
+
+Frontend
+
+
+
+
+
+
+Backend & Tools
+
+
+
+
+
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" /> </p>
+🌐 Connect
+
+LinkedIn: https://linkedin.com/in/richardamofa
+
+Portfolio: https://richardamofa.netlify.app
+
+🛡️ Profile Views
