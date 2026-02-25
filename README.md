@@ -1,5 +1,5 @@
 👋 Hi, I'm Richard Osei Amofa
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=24&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Full-Stack+Developer;Building+Scalable+Software+Applications+And+Systems;Open+to+Opportunities+And+Collaborations" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=24&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Full-Stack+Developer;Building+Scalable+Software+Applications;Open+to+Opportunities+And+Collaborations" /> </p>
 💼 Professional Summary
 
 Junior Software Engineer and Full-Stack Developer focused on building scalable, responsive web applications with clean architecture and strong performance principles.
@@ -31,7 +31,7 @@ Backend & Tools
 
 
 📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?richardamof=richardamofa&show_icons=true&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardamofa&layout=compact&hide_border=true" /> </p>
 🌐 Connect
 
 LinkedIn: https://www.linkedin.com/in/richard-osei-amofa-113414286/
