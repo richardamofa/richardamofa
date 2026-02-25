@@ -9,7 +9,7 @@ I enjoy solving real-world problems through structured systems, efficient UI des
 Based in Ghana • Open to internships and junior engineering roles
 
 🛠️ Technical Stack
-Languages
+[Languages
 
 
 
@@ -24,7 +24,7 @@ Frontend
 
 
 Backend & Tools
-
+](https://www.linkedin.com/in/richard-osei-amofa-113414286/)
 
 
 
