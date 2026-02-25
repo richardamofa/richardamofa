@@ -33,8 +33,8 @@ Backend & Tools
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" /> </p>
 🌐 Connect
 
-LinkedIn:** https://linkedin.com/in/richardamofa**
+LinkedIn: https://www.linkedin.com/in/richard-osei-amofa-113414286/
 
-Portfolio: https://richardamofa.netlify.app
+Portfolio: https://richardamofa.netlify.app/
 
 🛡️ Profile Views
