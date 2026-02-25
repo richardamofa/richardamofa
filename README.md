@@ -43,11 +43,11 @@ I enjoy solving real-world problems through structured systems, efficient UI des
  📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardamofa&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.netlify.app/api?username=richardamofa&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardamofa&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.netlify.app/api/top-langs/?username=richardamofa&layout=compact&hide_border=true" />
 </p>
 
 🌐 Connect  
