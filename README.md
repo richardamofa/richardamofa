@@ -14,8 +14,7 @@ I enjoy solving real-world problems through structured systems, efficient UI des
 🎯 Open to internships and junior engineering roles  
 
  🛠 Technical Stack  
-
-<h4>Core</h4>
+ 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -24,16 +23,12 @@ I enjoy solving real-world problems through structured systems, efficient UI des
   <img src="https://img.shields.io/badge/React-Component%20Architecture-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-Backend%20Development-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
-
-<h4>Backend & Database</h4>
 <p>
   <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-Problem%20Solving-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
-<h4>Tools & Deployment</h4>
 <p>
   <img src="https://img.shields.io/badge/Figma-UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white" />
