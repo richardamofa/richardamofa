@@ -7,11 +7,8 @@
 💼 Professional Summary  
 
 Junior Software Engineer and Full-Stack Developer focused on building scalable, responsive software applications with clean architecture and strong performance principles.
-
-I enjoy solving real-world problems through structured systems, efficient UI design, and maintainable backend logic.
-
-📍 Based in Ghana  
-🎯 Open to internships and junior engineering roles  
+// Based in Ghana  
+// Open to internships and junior engineering roles  
 
  🛠 Technical Stack  
  
