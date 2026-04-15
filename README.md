@@ -7,7 +7,7 @@
 💼 Professional Summary  
 
 Building scalable systems, responsive software applications with clean architecture and strong performance principles.
-Designing structure of web applications.
+Designing web application structures for development.
 
 
 // Based in Ghana  
