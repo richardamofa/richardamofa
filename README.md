@@ -6,7 +6,8 @@
 
 💼 Professional Summary  
 
-Junior Software Engineer and Full-Stack Developer focused on building scalable, responsive software applications with clean architecture and strong performance principles.
+Building scalable systems, responsive software applications with clean architecture and strong performance principles.
+Designing structure of web applications.
 
 
 // Based in Ghana  
@@ -39,7 +40,3 @@ Junior Software Engineer and Full-Stack Developer focused on building scalable, 
 
 LinkedIn: https://www.linkedin.com/in/richard-osei-amofa-113414286/  
 Portfolio: https://richardamofa.netlify.app/  
-
- 🛡 Profile Views  
-
-![Profile Views](https://komarev.com/ghpvc/?username=richardamofa&color=0A66C2)
