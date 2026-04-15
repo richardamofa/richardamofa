@@ -6,7 +6,7 @@
 
 💼 Professional Summary  
 
-Building scalable systems, responsive software applications with clean architecture and strong performance principles.
+Building scalable systems, responsive software applications with clean architecture and strong performance principles. <br />
 Designing web application structures for development.
 
 
