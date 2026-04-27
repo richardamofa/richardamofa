@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm Richard Osei Amofa  
+# Richard Osei Amofa  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=24&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Full-Stack+Developer;Building+Scalable+Software+Applications;Open+to+Opportunities+and+Collaborations" />
