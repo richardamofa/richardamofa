@@ -1,12 +1,12 @@
-# Richard Osei Amofa  
+<h1 align="center"> Richard Osei Amofa </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=24&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Full-Stack+Developer;Building+Scalable+Software+Applications;Open+to+Opportunities+and+Collaborations" />
 </p>
 
 
-// Based in Ghana  
-// Open to internships and junior engineering roles  
+<p align="center">Based in Ghana  </p>
+<p align="center">Open to internships and junior engineering roles  </p>
  
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-LinkedIn: https://www.linkedin.com/in/richard-osei-amofa-113414286/  
-Portfolio: https://richardamofa.netlify.app/  
+<p align="center">LinkedIn: https://www.linkedin.com/in/richard-osei-amofa-113414286/ </p>
+<p align="center">Portfolio: https://richardamofa.netlify.app/  </p>
