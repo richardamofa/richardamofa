@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-<p align="center">LinkedIn: https://www.linkedin.com/in/richard-osei-amofa-113414286/ </p>
-<p align="center">Portfolio: https://richardamofa.netlify.app/  </p>
+<p align="center">https://www.linkedin.com/in/richard-osei-amofa-113414286/ </p>
+<p align="center">https://richardamofa.netlify.app/  </p>
