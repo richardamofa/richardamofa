@@ -6,7 +6,6 @@
 
 
 <p align="center">Based in Ghana  </p>
-<p align="center">Open to internships and junior engineering roles  </p>
  
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
